@@ -1,0 +1,6 @@
+Your activation key is: {{activation_key}}
+
+This key will expire in {{expiration_days}} days.
+
+http://127.0.0.1:8000/accounts/activate/{{ activation_key }}/
+
